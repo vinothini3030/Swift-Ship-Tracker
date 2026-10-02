@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <formFactors>Large</formFactors>
+    <formFactors>Small</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>SwiftShip Tracker</label>
+    <navType>Standard</navType>
+    <tabs>Parcel__c</tabs>
+    <tabs>Delivery__c</tabs>
+    <tabs>Sender__c</tabs>
+    <tabs>Receiver__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
